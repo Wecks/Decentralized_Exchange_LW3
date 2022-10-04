@@ -10,4 +10,4 @@ For the front-end part, some JS frameworks like React and Next Js will be used a
 
 ## Result
 
-[Here](https://dao-lw-3-my-app-4pl2.vercel.app/) is the webpage which I have created with this code. 
+[Here](https://decentralized-exchange-lw3.vercel.app/) is the webpage which I have created with this code. 
