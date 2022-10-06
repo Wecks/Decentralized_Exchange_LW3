@@ -5,7 +5,7 @@ This project is realized by Wecks following this course of [LearnWeb3](https://l
 I will use the hardhat builder here and code this Dapp in solidity/javascript.
 
 
-```
+```solidity
 pragma solidity ^0.8.8;
 
 contract Yes{}
