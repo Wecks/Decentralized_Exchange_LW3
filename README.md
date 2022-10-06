@@ -6,7 +6,10 @@ I will use the hardhat builder here and code this Dapp in solidity/javascript.
 
 
 ```
-Some Code
+pragma solidity ^0.8.8;
+
+contract Yes{}
+//Some Code
 ```
 
 
