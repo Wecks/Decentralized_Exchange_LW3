@@ -5,9 +5,9 @@ This project is realized by Wecks following this course of [LearnWeb3](https://l
 I will use the hardhat builder here and code this Dapp in solidity/javascript.
 
 
-'''
+```
 Some Code
-'''
+```
 
 
 ## Front-end
