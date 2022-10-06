@@ -1,6 +1,9 @@
 # Build a whitelist dApp for an upcoming NFT Collection
 
 This project is realized by Wecks following this course of [LearnWeb3](https://learnweb3.io/courses/c1d7081b-63a9-4c6e-b35c-9fcbbad418b2/lessons/8f68b61a-14b2-429f-9fd3-2d2e8211421f)
+'''
+Some Code
+'''
 
 I will use the hardhat builder here and code this Dapp in solidity/javascript.
 
